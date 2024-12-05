@@ -11,6 +11,5 @@
 - **Acceso exclusivo**: Los archivos en este repositorio están destinados **únicamente** para ser consumidos directamente por los sistemas autorizados de la empresa.
 - **Prohibida la distribución**: Ningún archivo puede ser descargado, replicado, compartido o reutilizado por terceros ajenos a **Workobot SAS** bajo ninguna circunstancia.
 
-
 **Workobot SAS** se reserva el derecho de modificar o revocar el acceso a este repositorio en cualquier momento y sin previo aviso.
     
